@@ -1,4 +1,8 @@
-# CLI_Quiz
+## CLI_Quiz
 
-Created the First CLI Quiz app with javascript
+###### Created the First CLI Quiz app with basic Javascript
+
+Do this with `repl.it`
+
+
 
